@@ -25,7 +25,7 @@ Full-Stack Software Engineer passionate about creating efficient, scalable appli
 - Co-designing tutorials and exercise sets for complex concepts
 
 ## Let's Connect
-- [LinkedIn](https://linkedin.com/in/【your-handle】)
+- [LinkedIn](https://linkedin.com/in/brendan-fraser)
 
 ## Education
 - *Holberton School Australia* - Software Engineering Program (Jan 2027 expected)
